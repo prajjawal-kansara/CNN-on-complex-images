@@ -33,8 +33,8 @@ The model was compiled using the RMSprop optimizer and trained using binary_cros
 
 Sample accuracy results from training:
 
-    Epoch 1: Accuracy = 0.54
-    Epoch 15: Accuracy = 0.89
+    Epoch 1: Accuracy = 0.9939
+    Epoch 15: Accuracy = 0.9991
 
 ## Testing
 
@@ -86,7 +86,3 @@ The model is capable of distinguishing between horses and humans with a final ac
 ## Acknowledgments
 
 The dataset used for training is provided by Google and can be accessed [here](https://storage.googleapis.com/learning-datasets/horse-or-human.zip).
-
-
-
-
